@@ -1,2 +1,2 @@
 # PrapthiBelman.github.io
-Practice
+Just some HTML5, CSS3 and Javascript scripts and code
